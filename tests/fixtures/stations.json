@@ -1,0 +1,56 @@
+[
+ {
+  "Code": 1,
+  "Name": "تهران",
+  "EnglishName": "TEHRAN",
+  "TelCode": "021",
+  "Group": "ایستگاه های پردد",
+  "IsCarTicket": true,
+  "IsExclusion": false
+ },
+ {
+  "Code": 344,
+  "Name": "رباط كريم",
+  "EnglishName": "robatkarim",
+  "TelCode": "",
+  "Group": "",
+  "IsCarTicket": false,
+  "IsExclusion": false
+ },
+ {
+  "Code": 191,
+  "Name": "مشهد",
+  "EnglishName": "MASHAD",
+  "TelCode": "0511",
+  "Group": "ایستگاه های پردد",
+  "IsCarTicket": true,
+  "IsExclusion": false
+ },
+ {
+  "Code": 21,
+  "Name": "اصفهان",
+  "EnglishName": "ISFAHAN",
+  "TelCode": "0311",
+  "Group": "ایستگاه های پردد",
+  "IsCarTicket": true,
+  "IsExclusion": false
+ },
+ {
+  "Code": 161,
+  "Name": "قم",
+  "EnglishName": "QOM",
+  "TelCode": "0251",
+  "Group": "",
+  "IsCarTicket": true,
+  "IsExclusion": false
+ },
+ {
+  "Code": 263,
+  "Name": "مثلث طلايي(يزد-شيراز-اصفهان)",
+  "EnglishName": "mosalas tala",
+  "TelCode": "",
+  "Group": "",
+  "IsCarTicket": false,
+  "IsExclusion": false
+ }
+]
