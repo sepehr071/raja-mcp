@@ -80,10 +80,6 @@ A real answer (`rj_search_trains`, Tehran to Mashhad, 1405/08/30 = 21 Nov 2026, 
 - One wagon row (train 198, "پنج ستاره فدک") was in the API but not drawn on the page once; the server returns it.
 - Booking, login, payment and refunds are not covered; tell the user to book on raja.ir. Raja rotates the search key and its `api-key` header with the site's code, so a site update can break the tools until the server is updated.
 
-## How it works
-
-Raja has no public API. The endpoints behind its search page were mapped in Chrome, and the tools were checked in Chrome against the real pages (search rows, prices, seats, stops, news and notices matched). The search query is encrypted the way the site's own script does it, using a public key the site serves. Requests use a browser-like client, a short cache and low concurrency.
-
 ## فارسی
 
 <div dir="rtl">
