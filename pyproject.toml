@@ -1,6 +1,6 @@
 [project]
 name = "raja-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "Unofficial read-only MCP server for Raja (raja.ir), the Iranian train ticket seller: stations, train search with prices and free seats, timetables, news."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"
